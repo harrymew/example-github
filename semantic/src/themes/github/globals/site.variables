@@ -1,4 +1,4 @@
-/*******************************
+dsaf/*******************************
      User Global Variables
 *******************************/
 
@@ -23,7 +23,7 @@
 @green: #78CB5B;
 @orange: #D26911;
 @black: #333333;
-@primaryColor: @green;
+@primaryColor: @pink;
 @secondaryColor: @black;
 
 /* Links */
